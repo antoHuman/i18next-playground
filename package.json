@@ -4,6 +4,7 @@
   "description": "Playground and testing i18next",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +18,9 @@
   "author": "Antonio Sferruzza",
   "dependencies": {
     "i18next": "^21.8.13"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
