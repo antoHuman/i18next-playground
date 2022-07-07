@@ -1,0 +1,21 @@
+{
+  "name": "i18next-playground",
+  "version": "0.0.0",
+  "description": "Playground and testing i18next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-public:antoHuman/i18next-playground.git"
+  },
+  "keywords": [
+    "i18n",
+    "i18next"
+  ],
+  "author": "Antonio Sferruzza",
+  "dependencies": {
+    "i18next": "^21.8.13"
+  }
+}
